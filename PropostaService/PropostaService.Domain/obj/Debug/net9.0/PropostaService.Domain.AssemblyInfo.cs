@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PropostaService.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ccf2c0de2dff098fb960e178b0c8bedf29f64d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38e1d2e989ca2f7975e7cadd8a407383cbe9cd6")]
 [assembly: System.Reflection.AssemblyProductAttribute("PropostaService.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PropostaService.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
