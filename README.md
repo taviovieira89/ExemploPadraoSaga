@@ -6,16 +6,6 @@ Este projeto demonstra uma arquitetura de microserviços utilizando .NET Core, c
 
 A aplicação é composta por dois microserviços principais: `PropostaService` e `ContratacaoService`.
 
-```mermaid
-graph TD
-    A[Cliente/Frontend] -->|Requisições HTTP| B(PropostaService API)
-    A -->|Requisições HTTP| C(ContratacaoService API)
-
-    B -->|Gerencia Propostas| D[PropostaService Database (SQL Server)]
-    C -->|Gerencia Contratações| E[ContratacaoService Database (SQL Server)]
-
-    C -->|Aprova Proposta via HTTP| B
-```
 
 ### Descrição dos Componentes
 
@@ -127,7 +117,7 @@ dotnet ef database update -p ContratacaoService/ContratacaoService.Infrastructur
     *   `PropostaService`: `https://localhost:7001` (ou porta configurada)
     *   `ContratacaoService`: `https://localhost:7002` (ou porta configurada)
 
-### Execução com Docker (Bônus)
+### Execução com Docker
 
 Dockerfiles foram criados para cada microserviço.
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PropostaService.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b38e1d2e989ca2f7975e7cadd8a407383cbe9cd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5dd3896f8a98c3f4299bf26a0dee7e1c8432d726")]
 [assembly: System.Reflection.AssemblyProductAttribute("PropostaService.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PropostaService.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
