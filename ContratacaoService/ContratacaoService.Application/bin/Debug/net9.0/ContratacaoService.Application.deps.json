@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ContratacaoService.Application/1.0.0": {
+        "dependencies": {
+          "ContratacaoService.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ContratacaoService.Application.dll": {}
+        }
+      },
+      "ContratacaoService.Domain/1.0.0": {
+        "runtime": {
+          "ContratacaoService.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContratacaoService.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContratacaoService.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

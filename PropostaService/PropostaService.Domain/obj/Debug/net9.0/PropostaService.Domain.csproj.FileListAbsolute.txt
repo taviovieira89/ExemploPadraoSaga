@@ -1,0 +1,12 @@
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\bin\Debug\net9.0\PropostaService.Domain.deps.json
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\bin\Debug\net9.0\PropostaService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\bin\Debug\net9.0\PropostaService.Domain.pdb
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.AssemblyInfoInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.AssemblyInfo.cs
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.csproj.CoreCompileInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.sourcelink.json
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\refint\PropostaService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\PropostaService.Domain.pdb
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Domain\obj\Debug\net9.0\ref\PropostaService.Domain.dll

@@ -1,0 +1,16 @@
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\bin\Debug\net9.0\PropostaService.Application.deps.json
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\bin\Debug\net9.0\PropostaService.Application.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\bin\Debug\net9.0\PropostaService.Application.pdb
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\bin\Debug\net9.0\PropostaService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\bin\Debug\net9.0\PropostaService.Domain.pdb
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.csproj.AssemblyReference.cache
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.AssemblyInfoInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.AssemblyInfo.cs
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.csproj.CoreCompileInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.sourcelink.json
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\Proposta.3E26D591.Up2Date
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\refint\PropostaService.Application.dll
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\PropostaService.Application.pdb
+C:\Git\projetos\ExemploPadraoSaga\PropostaService\PropostaService.Application\obj\Debug\net9.0\ref\PropostaService.Application.dll

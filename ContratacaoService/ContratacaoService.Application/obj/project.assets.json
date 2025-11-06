@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "ContratacaoService.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/ContratacaoService.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContratacaoService.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContratacaoService.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ContratacaoService.Domain/ContratacaoService.Domain.csproj",
+      "msbuildProject": "../ContratacaoService.Domain/ContratacaoService.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "ContratacaoService.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tavio\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Git\\projetos\\ExemploPadraoSaga\\ContratacaoService\\ContratacaoService.Application\\ContratacaoService.Application.csproj",
+      "projectName": "ContratacaoService.Application",
+      "projectPath": "C:\\Git\\projetos\\ExemploPadraoSaga\\ContratacaoService\\ContratacaoService.Application\\ContratacaoService.Application.csproj",
+      "packagesPath": "C:\\Users\\tavio\\.nuget\\packages\\",
+      "outputPath": "C:\\Git\\projetos\\ExemploPadraoSaga\\ContratacaoService\\ContratacaoService.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tavio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\Git\\projetos\\ExemploPadraoSaga\\ContratacaoService\\ContratacaoService.Domain\\ContratacaoService.Domain.csproj": {
+              "projectPath": "C:\\Git\\projetos\\ExemploPadraoSaga\\ContratacaoService\\ContratacaoService.Domain\\ContratacaoService.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

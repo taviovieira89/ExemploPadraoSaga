@@ -1,0 +1,16 @@
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\bin\Debug\net9.0\ContratacaoService.Application.deps.json
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\bin\Debug\net9.0\ContratacaoService.Application.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\bin\Debug\net9.0\ContratacaoService.Application.pdb
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\bin\Debug\net9.0\ContratacaoService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\bin\Debug\net9.0\ContratacaoService.Domain.pdb
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.csproj.AssemblyReference.cache
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.AssemblyInfoInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.AssemblyInfo.cs
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.csproj.CoreCompileInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.sourcelink.json
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\Contrata.A758128A.Up2Date
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\refint\ContratacaoService.Application.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ContratacaoService.Application.pdb
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Application\obj\Debug\net9.0\ref\ContratacaoService.Application.dll

@@ -1,0 +1,12 @@
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\bin\Debug\net9.0\ContratacaoService.Domain.deps.json
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\bin\Debug\net9.0\ContratacaoService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\bin\Debug\net9.0\ContratacaoService.Domain.pdb
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.AssemblyInfoInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.AssemblyInfo.cs
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.csproj.CoreCompileInputs.cache
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.sourcelink.json
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\refint\ContratacaoService.Domain.dll
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ContratacaoService.Domain.pdb
+C:\Git\projetos\ExemploPadraoSaga\ContratacaoService\ContratacaoService.Domain\obj\Debug\net9.0\ref\ContratacaoService.Domain.dll

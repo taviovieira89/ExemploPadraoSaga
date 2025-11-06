@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kCFCypzBthfUqW4ZsjEhzyq3ZcyX9Z0fwSUYCXjzibE=",
+  "Source": "ContratacaoService.Api",
+  "BasePath": "_content/ContratacaoService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
